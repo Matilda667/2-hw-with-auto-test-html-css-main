@@ -7,9 +7,10 @@
 
 
 body {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Inter Regular', sans-serif;
     font-style: normal;
     height: 100vh;
+    background: #303030;
 }
 
 header {
