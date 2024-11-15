@@ -9,6 +9,7 @@
 body {
 font-family: "Inter", sans-serif;
     font-style: normal;
+    color: #303030;
     height: 100vh;
     background-color: #fafaff;
 }
@@ -101,6 +102,8 @@ height: 57px;
     /* Стили для подписей чекбоксов */
     width: 80px;
 height: 19px;
+font-weight: 400;
+font-size: 16px;
 }
 
 .text-field {
