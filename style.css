@@ -90,12 +90,16 @@ margin-bottom: 25px;
     /* Стили для маркированного списка во второй секции */
     width: 80px;
 height: 57px;
+font-weight: 400;
+font-size: 16px;
 }
 
 .books-list {
     /* Стили для нумерованного списка во второй секции */
     width: 670px;
 height: 57px;
+font-weight: 400;
+font-size: 16px;
 /* padding: 0px 20px; */
 }
 
@@ -147,7 +151,7 @@ table {
 border-collapse:collapse ;
 width: 300px;
 height: 196px;
-
+font-size: 16px;
 margin-top: 120px;
 }
 
@@ -159,6 +163,7 @@ th, td {
 font-weight: 400;
 font-size: 14px;
 border: 1px solid #95a1bb;
+margin: 60px 0px;
 }
 
 footer {
