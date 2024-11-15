@@ -59,23 +59,28 @@ line-height: 22px;
 
 .main-image {
     /* Стили для изображения в первой секции */
-    width: 715px;
+    max-width: none;
     height: 508px;
 }
 
 
 .about-section {
     /* Стили для второй секции */
-    background-color: #fff;
-    padding: 60px 0 100px;
+    fill: #fff;
+    padding: 60px 0px;
  
 }
 
 select {
     /* Стили для выпадающего списка */
-    width: 150px;
+width: 150px;
 height: 36px;
-
+font-weight: 400;
+font-size: 16px;
+/* background: rgba(255, 255, 255, 0); */
+border-radius: 5px;
+border: 1px solid rgba(48, 48, 48, 0.3);
+padding: 8px 12px 88px 8px;
 }
 
 .section-title {
@@ -92,6 +97,7 @@ margin-bottom: 25px;
 height: 57px;
 font-weight: 400;
 font-size: 16px;
+padding: 0px 20px;
 }
 
 .books-list {
@@ -100,7 +106,7 @@ font-size: 16px;
 height: 57px;
 font-weight: 400;
 font-size: 16px;
-/* padding: 0px 20px; */
+padding: 0px 20px;
 }
 
 .label {
