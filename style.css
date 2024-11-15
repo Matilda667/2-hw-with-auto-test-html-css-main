@@ -7,10 +7,10 @@
 
 
 body {
-    font-family: 'Inter Regular', sans-serif;
+font-family: "Inter", sans-serif;
     font-style: normal;
     height: 100vh;
-    background: #303030;
+    background-color: #fafaff;
 }
 
 header {
@@ -152,7 +152,9 @@ th, td {
     width: 300px;
     padding: 12px 15px;
     text-align:left;
-
+font-weight: 400;
+font-size: 14px;
+border: 1px solid #95a1bb;
 }
 
 footer {
